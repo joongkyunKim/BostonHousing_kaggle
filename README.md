@@ -22,5 +22,6 @@ Kaggle 데이터 셋 중 하나인 'Boston Housing' 데이터를 이용하여 �
 - Mlxtend (pip install mlxtend)
 
 ## 실행 방법
-- pip install -r requirements.txt 
-- Training &Prediction.ipynb 을 순차적으로 실행 
+- 아래의 requirements.txt 에 있는 라이브러리를 설치한 후, Training &Prediction.ipynb 을 순차적으로 실행 
+
+   $ pip install -r requirements.txt 
